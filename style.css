@@ -1,0 +1,31 @@
+h1 {
+  color: blue;
+  text-align: center;
+}
+
+div{
+  font-family: sans-serif;
+  font-size: 32pxs;
+  background-color: lightblue;
+  width: auto;
+  height: auto;
+  font-weight: bolder;
+  margin: 100px;
+  padding: 30px;
+}
+
+table{
+  border: 3px solid black;
+  border-collapse: collapse;
+  width: 50%;
+}
+
+th{
+  background-color: lightgray;
+}
+
+td,th{
+  border: 1px solid black;
+  padding: 5px;
+  text-align: center;
+}
